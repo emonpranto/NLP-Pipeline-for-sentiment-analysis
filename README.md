@@ -24,5 +24,5 @@ This diagram illustrates the workflow for building and deploying an NLP project.
 #### Data Preprocessing: 
 - Clean data by removing stop words, special characters, emojis, and links.
 - Normalize text
-    -- lowercasing, stemming, or lemmatization     
+-- lowercasing, stemming, or lemmatization     
 - Handle missing data and remove duplicates.

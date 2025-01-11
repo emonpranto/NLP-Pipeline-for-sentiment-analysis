@@ -14,4 +14,15 @@ This diagram illustrates the workflow for building and deploying an NLP project.
 - Deployment & Maintenance: Deploying the project into production and ensuring ongoing maintenance.
 - Each step is crucial for creating an effective and reliable NLP system.
 
+### Pipeline Workflow
 
+#### Data Collection: 
+- Collect YouTube comments using APIs like YouTube Data API.
+- Scrape or retrieve Facebook comments using Graph API or third-party tools.
+- Gather Google Reviews using Google Places API.
+
+#### Data Preprocessing: 
+- Clean data by removing stop words, special characters, emojis, and links.
+- Normalize text
+    -- lowercasing, stemming, or lemmatization     
+- Handle missing data and remove duplicates.
